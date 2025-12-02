@@ -66,9 +66,5 @@ Create database in your machine and connect it with value present in code.
 
 ---
 
-### Author
-
+### 👨‍💻 Author
 Aman Chougule
-
-👨‍💻 Author
-Aman
